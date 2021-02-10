@@ -1,10 +1,7 @@
-### Hi there 👋
+### Hey, I'm Raidas 👋
 
 <!--
 **RaidasGrisk/RaidasGrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I like to code and do machine learning 💻.  
+Check out my [projects](https://github.com/RaidasGrisk?tab=repositories).
+
+Mostly work on my personal projects and other things I find interesting 🤔.  
+Would love to join a team of likeminds 👯.
