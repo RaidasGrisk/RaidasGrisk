@@ -12,4 +12,4 @@
 - ⚡ Fun fact: ...
 -->
 
-I love coding and making machines learn 💻.  
+I love 🔥 coding and making machines learn 💻 🎓.  
