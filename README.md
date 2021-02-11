@@ -12,8 +12,4 @@
 - ⚡ Fun fact: ...
 -->
 
-I like to code and do machine learning 💻.  
-Check out my [projects](https://github.com/RaidasGrisk?tab=repositories).
-
-Mostly work on my personal projects and other things I find interesting 🤔.  
-Would love to join a team of likeminds 👯.
+I love coding and making machines learn 💻.  
