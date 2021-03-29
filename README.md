@@ -13,3 +13,9 @@
 -->
 
 I love 🔥 coding and making machines learn 💻 🎓.  
+
+<!--Wow, this is a cool project https://github.com/anuraghazra/github-readme-stat -->
+<br>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raidasgrisk&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
+
