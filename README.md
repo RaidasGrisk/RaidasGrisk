@@ -1,5 +1,3 @@
-### Hey, I'm Raidas 👋
-
 <!--
 **RaidasGrisk/RaidasGrisk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -12,11 +10,8 @@
 - ⚡ Fun fact: ...
 -->
 
-I love 🔥 coding and making machines learn 💻 🎓.  
+### Hey, I'm Raidas 👋
 
-<!--Wow, this is a cool project https://github.com/anuraghazra/github-readme-stat -->
-<br>
+I love code and making machines learn 💻 🎓.  
 
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raidasgrisk&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
--->
+[raidasgrisk.github.io](http://raidasgrisk.github.io/)
