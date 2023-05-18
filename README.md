@@ -12,6 +12,6 @@
 
 ### Hey, I'm Raidas 👋
 
-I enjoy developing things and making machines learn 🤖.  
+I enjoy developing things and helping machines learn 🤖.  
 
 [raidasgrisk.github.io](http://raidasgrisk.github.io/)
