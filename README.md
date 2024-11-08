@@ -14,4 +14,4 @@
 
 I enjoy developing things and helping machines learn 🤖.  
 
-[raidasgrisk.github.io](http://raidasgrisk.github.io/)
+[raidastauras.github.io](http://raidastauras.github.io/)
